@@ -1,0 +1,61 @@
+body {
+    -webkit-appearance: value;
+    -moz-appearance: value;
+    -o-appearance: value; 
+    appearance: value;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 13;
+}
+
+circle {
+    opacity: 0.5;
+    /* fill:rgba(26, 106, 143, 0.842); */
+    transition: background-color .2s;
+}
+
+circle:hover{
+    fill: rgb(186, 226, 40);
+    transition: all 0.2s ease;
+}
+
+div.tooltip {
+    position: absolute;
+    visibility: hidden;
+    border: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+input.checkbox {
+    width: 15px;
+    height: 15px;
+}
+
+/* All buttons */
+button {
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    color: white;
+    padding: 10px 26px;
+    border: none;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
+
+/* Button style from : https://www.w3schools.com/csS/css3_buttons.asp */
+.button1 {
+    background-color: #4CAF50; /* Green */
+}
+.button1:active{
+    background:#63dd67;
+}
+.button2 {
+    background-color: #167794; /* Green */
+}
+.button2:active{
+    background-color: #5fb4ce;
+}
+
