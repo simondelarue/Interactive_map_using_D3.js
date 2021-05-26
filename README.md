@@ -1,13 +1,16 @@
-<center><h1>Interactive map using D3.js</h1></center>
+<h1>Interactive map using D3.js</h1></
 
-
-<center><img src='img/technos.png' height=70 width=250></center>
+<p align="center">
+  <img src='img/technos.png' height=70 width=250 />
+</p>
 
 As stated in the [official documentation](https://github.com/d3/d3/wiki), D3 is "JavaScript library for visualizing data  using web standards".
 
 In this project, we use this library to visualize a map of France, and give the user a few information about **population** and **density** of cities, while providing him with a few **interactions** to get a better understanding of data.
 
-<center><img src='img/map.gif'></center>
+<p align="center">
+    <img src='img/map.gif'>
+</p>
 
 ### 1. Data
 
