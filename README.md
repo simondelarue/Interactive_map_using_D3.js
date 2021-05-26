@@ -1,7 +1,7 @@
 <h1>Interactive map using D3.js</h1></
 
 <p align="center">
-  <img src='img/technos.png' height=70 width=250 />
+  <img src='img/technos.png' height=70 width=250>
 </p>
 
 As stated in the [official documentation](https://github.com/d3/d3/wiki), D3 is "JavaScript library for visualizing data  using web standards".
