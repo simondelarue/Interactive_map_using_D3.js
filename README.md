@@ -1,4 +1,4 @@
-<h1>Interactive map using D3.js</h1></
+<h1>Interactive map using D3.js</h1>
 
 <p align="center">
   <img src='img/technos.png' height=70 width=250>
